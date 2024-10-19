@@ -94,7 +94,5 @@ plt.show()
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/44c90b00-8732-46f8-bd82-df77d7f80565)
+![image](https://github.com/user-attachments/assets/8f8eedcd-10d2-4d7a-b49d-296fcf0518f3)
 
-### Result:
-The program run successfully.
