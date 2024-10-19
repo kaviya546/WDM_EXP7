@@ -96,3 +96,6 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/8f8eedcd-10d2-4d7a-b49d-296fcf0518f3)
 
+Result:
+The program run successfully.
+
